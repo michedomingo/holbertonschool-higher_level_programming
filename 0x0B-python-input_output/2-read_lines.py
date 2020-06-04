@@ -10,10 +10,10 @@ def read_lines(filename="", nb_lines=0):
     """
     count = len(open(filename).readlines())
     with open(filename, 'r') as f:
-        if nb_lines == 0:
-            print(f.read(), end="")
+        if nb_lines > 0 and nb_lines < count:
+            while nb_lines:
+                print(f.readline(), end="")
+                nb_lines -= 1
         else:
-            for line in f:
-                if nb_lines > 0:
-                    print(line, end="")
-                    nb_lines -= 1
+            read_data = f.read()
+            print(read_data, end="")
