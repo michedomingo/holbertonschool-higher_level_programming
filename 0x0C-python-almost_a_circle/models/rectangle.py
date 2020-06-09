@@ -5,7 +5,7 @@ This module defines class Rectangle
 from models.base import Base
 
 
-class Rectangle:
+class Rectangle(Base):
     """
     This class Rectangle inherits from Base
     Defines private instance attributes with public getter/setter
