@@ -25,7 +25,7 @@ class TestBase(unittest.TestCase):
     def test01_none(self):
         """Test None input"""
         b6 = Base(None)
-        self.assertEqual(b6.id, 3)
+        self.assertEqual(b6.id, 4)
 
     def test02_float(self):
         """Test float input"""
