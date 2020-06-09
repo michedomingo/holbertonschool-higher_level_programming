@@ -38,7 +38,7 @@ class TestRectangle(unittest.TestCase):
         self.assertEqual(r6.width, 2)
         self.assertEqual(r6.height, 10)
         self.assertEqual(r7.width, 10)
-        self.assertEqual(r7.height, 2)    
+        self.assertEqual(r7.height, 2)
 
     def test03_x_y(self):
         """Test for valid x & y"""
@@ -62,13 +62,12 @@ class TestRectangle(unittest.TestCase):
         with self.assertRaises(TypeError) as e:
             r11 = Rectangle()
         self.assertEqual(
-            "__init__() missing 2 required positional arguments: 'width' and 'height'",
+            "__init__() missing 2 required positional arguments:" +
+            "'width' and 'height'",
             str(e.exception))
 
     def test_nan(self):
         """Test with nan"""
-
-
 
 if __name__ == '__main__':
     unittest.main()
