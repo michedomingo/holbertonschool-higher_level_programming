@@ -1,7 +1,10 @@
 # 0x05. Python - Exceptions
 
-## Description
-What you should learn from this project:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+#### 🤓 Learning Objectives
 
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * What’s the difference between errors and exceptions
@@ -64,4 +67,4 @@ Python lists:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)

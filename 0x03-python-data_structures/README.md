@@ -1,7 +1,10 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 
-## Description
-What you should learn from this project:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+#### 🤓 Learning Objectives
 
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * What are lists and how to use them
@@ -81,4 +84,4 @@ Since we now know a bit of C, we can look at what is happening under the hood of
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)

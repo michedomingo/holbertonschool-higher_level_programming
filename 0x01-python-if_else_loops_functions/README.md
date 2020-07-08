@@ -1,7 +1,10 @@
 # 0x01. Python - if/else, loops, functions
 
-## Description
-What you should learn from this project:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+#### 🤓 Learning Objectives
 
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * Why indentation is so important in Python
@@ -80,4 +83,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)

@@ -1,7 +1,10 @@
 # 0x02. Python - import & modules
 
-## Description
-What you should learn from this project:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+#### 🤓 Learning Objectives
 
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * How to import functions from another file
@@ -55,4 +58,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)

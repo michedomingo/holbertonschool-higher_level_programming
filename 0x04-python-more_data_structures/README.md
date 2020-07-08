@@ -1,7 +1,10 @@
 # 0x04. Python - More Data Structures: Set, Dictionary
 
-## Description
-What you should learn from this project:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+#### 🤓 Learning Objectives
 
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * What are set and how to use them
@@ -91,4 +94,4 @@ Python lists:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)[Michelle Domingo](https://github.com/michedomingo)
