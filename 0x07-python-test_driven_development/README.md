@@ -4,7 +4,11 @@
 ...
 </details>
 
-#### 🤓 Learning Objectives
+<details><summary>Resources 💡</summary>
+...
+</details>
+
+#### Learning Objectives 🤓
 
 * Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * What’s an interactive test

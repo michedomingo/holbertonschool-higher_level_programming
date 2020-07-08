@@ -4,7 +4,11 @@
 ...
 </details>
 
-#### 🤓 Learning Objectives
+<details><summary>Resources 💡</summary>
+...
+</details>
+
+#### Learning Objectives 🤓
 
 * Why Python programming is awesome
 * What is a superclass, baseclass or parentclass

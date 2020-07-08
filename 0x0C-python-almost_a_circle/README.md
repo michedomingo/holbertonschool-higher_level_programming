@@ -4,7 +4,11 @@
 ...
 </details>
 
-#### 🤓 Learning Objectives
+<details><summary>Resources 💡</summary>
+...
+</details>
+
+#### Learning Objectives 🤓
 
 * What is Unit testing and how to implement it in a large project
 * How to serialize and deserialize a Class
