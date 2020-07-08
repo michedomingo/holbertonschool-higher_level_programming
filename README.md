@@ -22,6 +22,5 @@ Holberton teaches full-stack software engineering with a project-based approach.
 | [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle) | <p><details><summary>Toggle 🤓</summary>Learning Objectives</details> </p> |
 
 ---
-
 ## Author
 [Michelle Domingo](https://github.com/michedomingo)
