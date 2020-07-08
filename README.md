@@ -5,6 +5,16 @@
 # High-level Programming
 Holberton teaches full-stack software engineering with a project-based approach. The first year curriculumn covers the foundations of software engineering, including low-level programming, DevOps, and high-level modern languages.
 
+Areas of focus:
+- Python
+- Front-end development
+- Object-Oriented Programming
+- Database Architecture and Implementation
+- Web Infrastructure
+- HTML
+- CSS
+- Unit Testing
+
 | Projects | Learning Objectives |
 | --- | --- |
 | [0x00-python-hello_world](./0x00-python-hello_world) | <p><details><summary>Toggle 🤓</summary>Learning Objectives</details> </p> |
