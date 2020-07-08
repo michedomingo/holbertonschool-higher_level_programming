@@ -33,7 +33,18 @@
 - All your header files should be include guarded
 </details>
 
-#### 🤓 Learning Objectives
+<details><summary>Resources 💡</summary>
+
+* [The Python tutorial (Read the first three chapters)](https://docs.python.org/3/tutorial/index.html)
+* [Whetting Your Appetite](https://docs.python.org/3/tutorial/appetite.html)
+* [Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
+* [An Informal Introduction to Python (Read up until “3.1.2. Strings” included)](https://docs.python.org/3/tutorial/introduction.html)
+* [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+* [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+* [PEP 8 – Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+</details>
+
+#### Learning Objectives 🤓
 
 * Why Python programming is awesome
 * Who created Python
@@ -83,54 +94,86 @@ guillaume@ubuntu:~/py/0x00$
 <details><summary>Instructions</summary>
 
 * Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+```
+guillaume@ubuntu:~/py/0x00$ ./2-print.py 
+"Programming is like building a multilingual puzzle
+guillaume@ubuntu:~/py/0x00$
+```
 </details>
 
 ### [3. Print integer](./3-print_number.py)
 <details><summary>Instructions</summary>
 
 * Complete this source code in order to print the integer stored in the variable number, followed by Battery street, followed by a new line.
+```
+guillaume@ubuntu:~/py/0x00$ ./3-print_number.py
+98 Battery street
+guillaume@ubuntu:~/py/0x00$ 
+```
+> C is strongly typed… not in Python! The variable number can be assigned to a string, a float, a bool etc… Forcing the type during a string format ("...".format(...)) is a way to control the type of a variable
 </details>
 
 ### [4. Print float](./4-print_float.py)
 <details><summary>Instructions</summary>
 
 * Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
+```
+
+```
 </details>
 
 ### [5. Print string](./5-print_string.py)
 <details><summary>Instructions</summary>
 
 * Complete this source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
+```
+
+```
 </details>
 
 ### [6. Play with strings](./6-concat.py)
 <details><summary>Instructions</summary>
 
 * Complete this source code to print Welcome to Holberton School!
+```
+
+```
 </details>
 
 ### [7. Copy - Cut - Paste](./7-edges.py)
 <details><summary>Instructions</summary>
 
 * Complete this source code
+```
+
+```
 </details>
 
 ### [8. Create a new sentence](./8-concat_edges.py)
 <details><summary>Instructions</summary>
 
 * Complete this source code to print object-oriented programming with Python, followed by a new line.
+```
+
+```
 </details>
 
 ### [9. Easter Egg](./9-easter_egg.py)
 <details><summary>Instructions</summary>
 
 * Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+```
+
+```
 </details>
 
 ### [10. Linked list cycle](./10-check_cycle.c)
 <details><summary>Instructions</summary>
 
-* Technical interview preparation: 
+* Technical interview preparation:
+```
+
+```
 </details>
 
 ---
