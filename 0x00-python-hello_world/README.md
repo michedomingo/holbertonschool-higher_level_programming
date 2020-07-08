@@ -7,7 +7,7 @@
 - All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 - All your files should end with a new line
 - he first line of all your files should be exactly #!/usr/bin/python3
-- - A README.md file at the root of the holbertonschool-higher_level_programming repo, containing a description of the repository
+- A README.md file at the root of the holbertonschool-higher_level_programming repo, containing a description of the repository
 - A README.md file, at the root of the folder of this project, is mandatory
 - Your code should use the PEP 8 style (version 1.7.*)
 - All your files must be executable
@@ -33,7 +33,7 @@
 - All your header files should be include guarded
 </details>
 
-#### 🤓 Learning Objectives:
+#### 🤓 Learning Objectives
 
 * Why Python programming is awesome
 * Who created Python
@@ -48,8 +48,8 @@
 
 ---
 ## Tasks
-### [0. Run Python file](./0-run)
 
+### [0. Run Python file](./0-run)
 <details><summary>Instructions</summary>
 
 * Write a Shell script that runs a Python script.
