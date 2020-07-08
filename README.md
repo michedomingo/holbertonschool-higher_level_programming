@@ -7,7 +7,7 @@ Holberton teaches full-stack software engineering with a project-based approach.
 
 Areas of focus:
 - Python
-- Front-end development
+- Front-end Development
 - Object-Oriented Programming
 - Database Architecture and Implementation
 - Web Infrastructure
