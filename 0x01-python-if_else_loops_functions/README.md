@@ -30,59 +30,130 @@
 ---
 
 ### [0. Positive anything is better than negative nothing](./0-positive_or_negative.py)
-* This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
+<details><summary>Instructions</summary>
 
+* This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
+```
+
+```
+</details>
 
 ### [1. The last digit](./1-last_digit.py)
-* This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
+<details><summary>Instructions</summary>
 
+* This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
+```
+
+```
+</details>
 
 ### [2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](./2-print_alphabet.py)
-* Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+<details><summary>Instructions</summary>
 
+* Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+```
+
+```
+</details>
 
 ### [3. When I was having that alphabet soup, I never thought that it would pay off](./3-print_alphabt.py)
-* Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+<details><summary>Instructions</summary>
 
+* Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+```
+
+```
+</details>
 
 ### [4. Hexadecimal printing](./4-print_hexa.py)
-* Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal (as in the following example)
+<details><summary>Instructions</summary>
 
+* Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal (as in the following example)
+```
+
+```
+</details>
 
 ### [5. 00...99](./5-print_comb2.py)
-* Write a program that prints numbers from 0 to 99.
+<details><summary>Instructions</summary>
 
+* Write a program that prints numbers from 0 to 99.
+```
+
+```
+</details>
 
 ### [6. Inventing is a combination of brains and materials. The more brains you use, the less material you need](./6-print_comb3.py)
-* Write a program that prints all possible different combinations of two digits.
+<details><summary>Instructions</summary>
 
+* Write a program that prints all possible different combinations of two digits.
+```
+
+```
+</details>
 
 ### [7. islower](./7-islower.py)
-* Write a function that checks for lowercase character. 
+<details><summary>Instructions</summary>
 
+* Write a function that checks for lowercase character. 
+```
+
+```
+</details>
 
 ### [8. To uppercase](./8-uppercase.py)
-* Write a function that prints a string in uppercase followed by a new line.
+<details><summary>Instructions</summary>
 
+* Write a function that prints a string in uppercase followed by a new line.
+```
+
+```
+</details>
 
 ### [9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](./9-print_last_digit.py)
-* Write a function that prints the last digit of a number.
+<details><summary>Instructions</summary>
 
+* Write a function that prints the last digit of a number.
+```
+
+```
+</details>
 
 ### [10. a + b](./10-add.py)
-* Write a function that adds two integers and returns the result.
+<details><summary>Instructions</summary>
 
+* Write a function that adds two integers and returns the result.
+```
+
+```
+</details>
 
 ### [11. a ^ b](./11-pow.py)
-* Write a function that computes a to the power of b and return the value.
+<details><summary>Instructions</summary>
 
+* Write a function that computes a to the power of b and return the value.
+```
+
+```
+</details>
 
 ### [12. Fizz Buzz](./12-fizzbuzz.py)
-* Write a function that prints the numbers from 1 to 100 separated by a space. 
+<details><summary>Instructions</summary>
 
+* Write a function that prints the numbers from 1 to 100 separated by a space. 
+```
+
+```
+</details>
 
 ### [13. Insert in sorted linked list](./13-insert_number.c)
+<details><summary>Instructions</summary>
+
 * Technical interview preparation: 
+```
+
+```
+</details>
 
 ---
 
