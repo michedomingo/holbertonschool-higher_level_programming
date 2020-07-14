@@ -36,7 +36,8 @@
 ```
 </details>
 
-### [1. Number of lines](./1-number_of_lines.py)<details><summary>Instructions</summary>
+### [1. Number of lines](./1-number_of_lines.py)
+<details><summary>Instructions</summary>
 
 * Write a function that returns the number of lines of a text file:
 ```
