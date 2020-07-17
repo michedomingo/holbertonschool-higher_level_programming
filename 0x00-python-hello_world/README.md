@@ -6,7 +6,7 @@
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 - All your files should end with a new line
-- he first line of all your files should be exactly #!/usr/bin/python3
+- The first line of all your files should be exactly #!/usr/bin/python3
 - A README.md file at the root of the holbertonschool-higher_level_programming repo, containing a description of the repository
 - A README.md file, at the root of the folder of this project, is mandatory
 - Your code should use the PEP 8 style (version 1.7.*)
@@ -62,9 +62,8 @@
 ## Tasks
 
 ### [0. Run Python file](./0-run)
-<details><summary>Instructions</summary>
+<details><summary>Write a Shell script that runs a Python script.</summary>
 
-* Write a Shell script that runs a Python script
 * The Python file name will be saved in the environment variable `$PYFILE`
 ```
 guillaume@ubuntu:~/py/0x00$ cat main.py 
@@ -79,9 +78,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [1. Run inline](./1-run_inline)
-<details><summary>Instructions</summary>
+<details><summary>Write a Shell script that runs Python code.</summary>
 
-* Write a Shell script that runs Python code.
 * The Python code will be saved in the environment variable `$PYCODE`
 ```
 guillaume@ubuntu:~/py/0x00$ export PYCODE='print("Holberton School: {}".format(88+10))'
@@ -92,9 +90,9 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [2. Hello, print](./2-print.py)
-<details><summary>Instructions</summary>
+<details><summary>Write a Python script that prints exactly `"Programming is like building a multilingual puzzle, followed by a new line`.</summary>
 
-* Write a Python script that prints exactly `"Programming is like building a multilingual puzzle, followed by a new line`
+* Use the function print
 ```
 guillaume@ubuntu:~/py/0x00$ ./2-print.py 
 "Programming is like building a multilingual puzzle
@@ -103,10 +101,10 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [3. Print integer](./3-print_number.py)
-<details><summary>Instructions</summary>
+<details><summary>Complete this source code in order to print the integer stored in the variable `number`, followed by `Battery street`.</summary>
 
-* Complete this source code in order to print the integer stored in the variable `number`, followed by `Battery street`
 * You are not allowed to cast the variable `number` into a string
+* You are not allowed to cast the variable number into a string
 * Your code must be 3 lines long
 * You have to use the new print numbers tips (with `.format(...)`)
 ```
@@ -118,9 +116,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [4. Print float](./4-print_float.py)
-<details><summary>Instructions</summary>
+<details><summary>Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits.</summary>
 
-* Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits
 * You are not allowed to cast `number` to string
 * You have to use the new print formatting tips (with `.format(...)`)
 ```
@@ -131,9 +128,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [5. Print string](./5-print_string.py)
-<details><summary>Instructions</summary>
+<details><summary>Complete this source code in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.</summary>
 
-* Complete this source code in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters
 * You are not allowed to use any loops or conditional statement
 * Your program should be maximum 5 lines long
 ```
@@ -145,9 +141,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [6. Play with strings](./6-concat.py)
-<details><summary>Instructions</summary>
+<details><summary>Complete this source code to print `Welcome to Holberton School!`</summary>
 
-* Complete this source code to print `Welcome to Holberton School!`
 * You are not allowed to use any loops or conditional statements.
 * You have to use the variables `str1` and `str2` in your new line of code
 * Your program should be exactly 5 lines long
@@ -161,9 +156,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [7. Copy - Cut - Paste](./7-edges.py)
-<details><summary>Instructions</summary>
+<details><summary>Complete this source code.</summary>
 
-* Complete this source code
 * You are not allowed to use any loops or conditional statements
 * Your program should be exactly 8 lines long
 * `word_first_3` should contain the first 3 letters of the variable `word`
@@ -181,9 +175,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [8. Create a new sentence](./8-concat_edges.py)
-<details><summary>Instructions</summary>
+<details><summary>Complete this source code to print `object-oriented programming with Python`.</summary>
 
-* Complete this source code to print `object-oriented programming with Python`
 * You are not allowed to use any loops or conditional statements
 * Your program should be exactly 5 lines long
 * You are not allowed to create new variables
@@ -198,9 +191,8 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [9. Easter Egg](./9-easter_egg.py)
-<details><summary>Instructions</summary>
+<details><summary>Write a Python script that prints “The Zen of Python”, by TimPeters.</summary>
 
-* Write a Python script that prints “The Zen of Python”, by TimPeters
 * Your script should be maximum 98 characters long (please check with `wc -m 9-easter_egg.py`)
 ```
 guillaume@ubuntu:~/py/0x00$ ./9-easter_egg.py
@@ -406,7 +398,26 @@ carrie@ubuntu:~/0x00$$ ./cycle
 Linked list has no cycle
 Linked list has a cycle
 carrie@ubuntu:~/0x00$
-````
+```
+</details>
+
+### [11. Hello, write](./100-write.py)
+<details><summary>Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19.</summary>
+
+* Use the function write from the sys module
+* You are not allowed to use print
+* Your script should print to stderr
+* Your script should exit with the status code 1
+```
+guillaume@ubuntu:~/py/0x00$ ./100-write.py
+and that piece of art is useful - Dora Korpar, 2015-10-19
+guillaume@ubuntu:~/py/0x00$ echo $?
+1
+guillaume@ubuntu:~/py/0x00$ ./100-write.py 2> q
+guillaume@ubuntu:~/py/0x00$ cat q
+and that piece of art is useful - Dora Korpar, 2015-10-19
+guillaume@ubuntu:~/py/0x00$ 
+```
 </details>
 
 ---
