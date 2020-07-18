@@ -52,7 +52,8 @@
 ---
 
 ### [0. Import a simple function from a simple file](./0-add.py)
-<details><summary>Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3</summary>
+<details><summary>Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3.
+</summary>
 
 * You have to use print function with string format to display integers
 * You have to assign:
@@ -60,10 +61,11 @@
     * the value 2 to a variable called b
     * and use those two variables as arguments when calling the functions add and print
 * a and b must be defined in 2 different lines: a = 1 and another b = 2
-* Your program should print: <a value> + <b value> = <add(a, b) value> followed with a new line
+* Your program should print: `<a value> + <b value> = <add(a, b) value>` followed with a new line
 * You can only use the word add_0 once in your code
 * You are not allowed to use * for importing or __import__
 * Your code should not be executed when imported - by using __import__, like the example below
+
 ```
 guillaume@ubuntu:~/0x02$ cat add_0.py
 #!/usr/bin/python3
@@ -101,6 +103,7 @@ guillaume@ubuntu:~/0x02$
 * the word calculator_1 should be used only once in your file
 * You are not allowed to use * for importing or __import__
 * Your code should not be executed when imported
+
 ```
 guillaume@ubuntu:~/0x02$ cat calculator_1.py
 #!/usr/bin/python3
@@ -162,6 +165,7 @@ guillaume@ubuntu:~/0x02$ ./1-calculation.py
 10 / 5 = 2
 guillaume@ubuntu:~/0x02$
 ```
+
 </details>
 
 ### [2. How to make a script dynamic!](./2-args.py)
@@ -257,7 +261,7 @@ guillaume@ubuntu:~/0x02$
 
 * Usage: ./100-my_calculator.py a operator b
     * If the number of arguments is not 3, your program has to:
-        * print Usage: ./100-my_calculator.py <a> <operator> <b> followed with a new line
+        * print `Usage: ./100-my_calculator.py <a> <operator> <b>` followed with a new line
         * exit with the value 1
     * operator can be:
         * + for addition
@@ -265,10 +269,10 @@ guillaume@ubuntu:~/0x02$
         * * for multiplication
         * / for division
     * If the operator is not one of the above:
-        * print Unknown operator. Available operators: +, -, * and / followed with a new line
+        * print `Unknown operator. Available operators: +, -, * and /` followed with a new line
         * exit with the value 1
     * You can cast a and b into integers by using int() (you can assume that all arguments will be castable into integers)
-    * The result should be printed like this: <a> <operator> <b> = <result>, followed by a new line
+    * The result should be printed like this: `<a> <operator> <b> = <result>`, followed by a new line
     * You are not allowed to use * for importing or __import__
     * Your code should not be executed when imported
 ```
