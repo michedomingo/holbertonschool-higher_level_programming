@@ -62,7 +62,7 @@
 ## Tasks
 
 ### [0. Run Python file](./0-run)
-<details><summary>Write a Shell script that runs a Python script.</summary>
+<details><summary>Write a Shell script that runs a Python script.</summary><br>
 
 * The Python file name will be saved in the environment variable `$PYFILE`
 ```
@@ -78,7 +78,7 @@ guillaume@ubuntu:~/py/0x00$
 </details>
 
 ### [1. Run inline](./1-run_inline)
-<details><summary>Write a Shell script that runs Python code.</summary>
+<details><summary>Write a Shell script that runs Python code.</summary><br>
 
 * The Python code will be saved in the environment variable `$PYCODE`
 ```
