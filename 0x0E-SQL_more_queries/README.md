@@ -95,126 +95,126 @@ What you should learn from this project:
 </details>
 
 ### [7. Cities table](./7-cities.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.</summary><br>
 
-* Write a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [8. Cities of California](./8-cities_of_california_subquery.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.</summary><br>
 
-* Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.
+* 
 ```
 
 ```
 </details>
 
 ### [9. Cities by States](./9-cities_by_state_join.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that lists all cities contained in the database hbtn_0d_usa.</summary><br>
 
-* Write a script that lists all cities contained in the database hbtn_0d_usa.
+* 
 ```
 
 ```
 </details>
 
 ### [10. Genre ID by show](./10-genre_id_by_show.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download
+* 
 ```
 
 ```
 </details>
 
 ### [11. Genre ID for all shows](./11-genre_id_all_shows.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump of hbtn_0d_tvshows to your MySQL server: download (same as 10-genre_id_by_show.sql)</summary><br>
 
-* Import the database dump of hbtn_0d_tvshows to your MySQL server: download (same as 10-genre_id_by_show.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [12. No genre](./12-no_genre.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 11-genre_id_all_shows.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 11-genre_id_all_shows.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [13. Number of shows by genre](./13-count_shows_by_genre.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 12-no_genre.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 12-no_genre.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [14. My genres](./14-my_genres.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 13-count_shows_by_genre.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 13-count_shows_by_genre.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [15. Only Comedy](./15-comedy_only.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 14-my_genres.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 14-my_genres.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [16. List shows and genres](./16-shows_by_genre.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 15-comedy_only.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 15-comedy_only.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [17. Not my genre](./100-not_my_genres.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 16-shows_by_genre.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 16-shows_by_genre.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [18. No Comedy tonight!](./101-not_a_comedy.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 100-not_my_genres.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 100-not_my_genres.sql)
+* 
 ```
 
 ```
 </details>
 
 ### [19. Rotten tomatoes](./102-rating_shows.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database hbtn_0d_tvshows_rate dump to your MySQL server: download</summary><br>
 
-* Import the database hbtn_0d_tvshows_rate dump to your MySQL server: download
+* 
 ```
 
 ```
 </details>
 
 ### [20. Best genre](./103-rating_genres.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Import the database dump from hbtn_0d_tvshows_rate to your MySQL server: download (same as 102-rating_shows.sql)</summary><br>
 
-* Import the database dump from hbtn_0d_tvshows_rate to your MySQL server: download (same as 102-rating_shows.sql)
+* 
 ```
 
 ```
