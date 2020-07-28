@@ -34,48 +34,103 @@
 ---
 
 ### [0. My first square](./0-square.py)
-* Write an empty class Square that defines a square:
+<details><summary>Write an empty class Square that defines a square:</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [1. Square with size](./1-square.py)
-* Write a class Square that defines a square by: (based on 0-square.py)
+<details><summary>Write a class Square that defines a square by: (based on 0-square.py)</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [2. Size validation](./2-square.py)
-* Write a class Square that defines a square by: (based on 1-square.py)
+<details><summary>Write a class Square that defines a square by: (based on 1-square.py)</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [3. Area of a square](./3-square.py)
-* Write a class Square that defines a square by: (based on 2-square.py)
+<details><summary>Write a class Square that defines a square by: (based on 2-square.py)</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [4. Access and update private attribute](./4-square.py)
-* Write a class Square that defines a square by: (based on 3-square.py)
+<details><summary>Write a class Square that defines a square by: (based on 3-square.py)</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [5. Printing a square](./5-square.py)
-* Write a class Square that defines a square by: (based on 4-square.py)
+<details><summary>Write a class Square that defines a square by: (based on 4-square.py)</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [6. Coordinates of a square](./6-square.py)
-* Write a class Square that defines a square by: (based on 5-square.py)
+<details><summary>Write a class Square that defines a square by: (based on 5-square.py)</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [7. Singly linked list](./100-singly_linked_list.py)
-* Write a class Node that defines a node of a singly linked list by: 
+<details><summary>Write a function that executes a function safely. </summary><br>
 
+* Write a class Node that defines a node of a singly linked list by: 
+```
+
+```
+</details>
 
 ### [8. Print Square instance](./101-square.py)
-* Write a class Square that defines a square by: (based on 6-square.py)
+<details><summary>Write a function that executes a function safely. </summary><br>
 
+* Write a class Square that defines a square by: (based on 6-square.py)
+```
+
+```
+</details>
 
 ### [9. Compare 2 squares](./102-square.py)
-* Write a class Square that defines a square by: (based on 4-square.py)
+<details><summary>Write a function that executes a function safely. </summary><br>
 
+* Write a class Square that defines a square by: (based on 4-square.py)
+```
+
+```
+</details>
 
 ### [10. ByteCode -> Python #5](./103-magic_class.py)
-* Write the Python class MagicClass that does exactly the same as the following Python bytecode:
+<details><summary>Write a function that executes a function safely. </summary><br>
 
+* Write the Python class MagicClass that does exactly the same as the following Python bytecode:
+```
+
+```
+</details>
 ---
 
 ## Author
