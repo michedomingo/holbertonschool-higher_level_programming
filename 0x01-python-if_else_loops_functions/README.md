@@ -57,7 +57,7 @@
 ---
 
 ### [0. Positive anything is better than negative nothing](./0-positive_or_negative.py)
-<details><summary>This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.</summary>
+<details><summary>This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.</summary><br>
 
 * The variable `number` will store a different value every time you will run this program
 ```
@@ -84,7 +84,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [1. The last digit](./1-last_digit.py)
-<details><summary>This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.</summary>
+<details><summary>This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.</summary><br>
 
 * The variable `number` will store a different value every time you will run this program
 ```
@@ -115,7 +115,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](./2-print_alphabet.py)
-<details><summary>Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.</summary>
+<details><summary>Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.</summary><br>
 
 * You can only use one `print` function with string format
 * You can only use one loop in your code
@@ -128,7 +128,7 @@ abcdefghijklmnopqrstuvwxyzguillaume@ubuntu:~/0x01$
 </details>
 
 ### [3. When I was having that alphabet soup, I never thought that it would pay off](./3-print_alphabt.py)
-<details><summary>Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.</summary>
+<details><summary>Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.</summary><br>
 
 * Print all the letters except `q` and `e`
 * You can only use one `print` function with string format
@@ -142,7 +142,7 @@ abcdfghijklmnoprstuvwxyzguillaume@ubuntu:~/0x01$
 </details>
 
 ### [4. Hexadecimal printing](./4-print_hexa.py)
-<details><summary>Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal.</summary>
+<details><summary>Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal.</summary><br>
 
 *  You can only use one `print` function with string format
 *  You can only use one loop in your code
@@ -178,7 +178,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [5. 00...99](./5-print_comb2.py)
-<details><summary>Write a program that prints numbers from 0 to 99.</summary>
+<details><summary>Write a program that prints numbers from 0 to 99.</summary><br>
 
 * Numbers must be separated by `,`, followed by a space
 * Numbers should be printed in ascending order, with two digits
@@ -195,7 +195,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [6. Inventing is a combination of brains and materials. The more brains you use, the less material you need](./6-print_comb3.py)
-<details><summary>Write a program that prints all possible different combinations of two digits.</summary>
+<details><summary>Write a program that prints all possible different combinations of two digits.</summary><br>
 
 * Numbers must be separated by ,, followed by a space
 * The two digits must be different
@@ -215,7 +215,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [7. islower](./7-islower.py)
-<details><summary>Write a function that checks for lowercase character. </summary>
+<details><summary>Write a function that checks for lowercase character. </summary><br>
 
 * Returns `True` if `c` is lowercase
 * Returns `False` otherwise
@@ -243,7 +243,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [8. To uppercase](./8-uppercase.py)
-<details><summary>Write a function that prints a string in uppercase followed by a new line.</summary>
+<details><summary>Write a function that prints a string in uppercase followed by a new line.</summary><br>
 
 * You can only use no more than 2 `print` functions with string format
 * You can only use one loop in your code
@@ -265,7 +265,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](./9-print_last_digit.py)
-<details><summary>Write a function that prints the last digit of a number.</summary>
+<details><summary>Write a function that prints the last digit of a number.</summary><br>
 
 * Returns the value of the last digit
 * You are not allowed to import any module
@@ -286,7 +286,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [10. a + b](./10-add.py)
-<details><summary>Write a function that adds two integers and returns the result.</summary>
+<details><summary>Write a function that adds two integers and returns the result.</summary><br>
 
 * Returns the value of a + b
 * You are not allowed to import any module
@@ -308,7 +308,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [11. a ^ b](./11-pow.py)
-<details><summary>Write a function that computes a to the power of b and return the value.</summary>
+<details><summary>Write a function that computes a to the power of b and return the value.</summary><br>
 
 * Returns the value of `a ^ b`
 * You are not allowed to import any module
@@ -334,7 +334,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [12. Fizz Buzz](./12-fizzbuzz.py)
-<details><summary>Write a function that prints the numbers from 1 to 100 separated by a space. </summary>
+<details><summary>Write a function that prints the numbers from 1 to 100 separated by a space.</summary><br>
 
 * For multiples of three print `Fizz` instead of the number and for multiples of five print `Buzz`.
 * For numbers which are multiples of both three and five print `FizzBuzz`.
@@ -355,7 +355,7 @@ guillaume@ubuntu:~/0x01$
 </details>
 
 ### [14. Smile in the mirror](./13-insert_number.c)
-<details><summary>Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase).</summary>
+<details><summary>Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase).</summary><br>
 
 * You can only use one `print` function with string format
 * You can only use one loop in your code
