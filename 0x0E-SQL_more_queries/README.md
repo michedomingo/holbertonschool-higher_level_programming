@@ -32,63 +32,63 @@ What you should learn from this project:
 ---
 
 ### [0. My privileges!](./0-privileges.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).</summary><br>
 
-* Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).
+* 
 ```
 
 ```
 </details>
 
 ### [1. Root user](./1-create_user.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the MySQL server user user_0d_1.</summary><br>
 
-* Write a script that creates the MySQL server user user_0d_1. 
+*  
 ```
 
 ```
 </details>
 
 ### [2. Read user](./2-create_read_user.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the database hbtn_0d_2 and the user user_0d_2.</summary><br>
 
-* Write a script that creates the database hbtn_0d_2 and the user user_0d_2. 
+* 
 ```
 
 ```
 </details>
 
 ### [3. Always a name](./3-force_name.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the table force_name on your MySQL server.</summary><br>
 
-* Write a script that creates the table force_name on your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [4. ID can't be null](./4-never_empty.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the table id_not_null on your MySQL server.</summary><br>
 
-* Write a script that creates the table id_not_null on your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [5. Unique ID](./5-unique_id.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the table unique_id on your MySQL server.</summary><br>
 
-* Write a script that creates the table unique_id on your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [6. States table](./6-states.sql)
-<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
+<details><summary>Write a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.</summary><br>
 
-* Write a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.
+* 
 ```
 
 ```
