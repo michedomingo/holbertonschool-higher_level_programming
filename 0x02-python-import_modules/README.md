@@ -53,7 +53,7 @@
 
 ### [0. Import a simple function from a simple file](./0-add.py)
 <details><summary>Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3.
-</summary>
+</summary><br>
 
 * You have to use print function with string format to display integers
 * You have to assign:
@@ -91,7 +91,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [1. My first toolbox!](./1-calculation.py)
-<details><summary>Write a program that imports functions from the file calculator_1.py, does some Maths, and prints the result.</summary>
+<details><summary>Write a program that imports functions from the file calculator_1.py, does some Maths, and prints the result.</summary><br>
 
 * Do not use the function print (with string format to display integers) more than 4 times
 * You have to define:
@@ -169,7 +169,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [2. How to make a script dynamic!](./2-args.py)
-<details><summary>Write a program that prints the number of and the list of its arguments.</summary>
+<details><summary>Write a program that prints the number of and the list of its arguments.</summary><br>
 
 * The output should be:
     * Number of argument(s) followed by argument (if number is one) or arguments (otherwise), followed by
@@ -199,7 +199,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [3. Infinite addition](./3-infinite_add.py)
-<details><summary>Write a program that prints the result of the addition of all arguments.</summary>
+<details><summary>Write a program that prints the result of the addition of all arguments.</summary><br>
 
 * The output should be the result of the addition of all arguments, followed by a new line
 * You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
@@ -222,7 +222,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [4. Who are you?](./4-hidden_discovery.py)
-<details><summary>Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).</summary>
+<details><summary>Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).</summary><br>
 
 * You should print one name per line, in alpha order
 * YYou should print only names that do not start with __
@@ -239,7 +239,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [5. Everything can be imported](./5-variable_load.py)
-<details><summary>Write a program that imports the variable a from the file variable_load_5.py and prints its value.</summary>
+<details><summary>Write a program that imports the variable a from the file variable_load_5.py and prints its value.</summary><br>
 
 * You are not allowed to use * for importing or __import__
 * Your code should not be executed when imported
@@ -257,7 +257,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [6. Build my own calculator!](./100-my_calculator.py)
-<details><summary>Write a program that imports all functions from the file calculator_1.py and handles basic operations.</summary>
+<details><summary>Write a program that imports all functions from the file calculator_1.py and handles basic operations.</summary><br>
 
 * Usage: ./100-my_calculator.py a operator b
     * If the number of arguments is not 3, your program has to:
@@ -343,7 +343,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [7. Easy print](./101-easy_print.py)
-<details><summary>Write a program that prints #pythoniscool, followed by a new line, in the standard output.</summary>
+<details><summary>Write a program that prints #pythoniscool, followed by a new line, in the standard output.</summary><br>
 
 * Your program should be maximum 2 lines long
 * You are not allowed to use print or eval or open or import sys in your file 101-easy_print.py
@@ -355,7 +355,7 @@ guillaume@ubuntu:~/0x02$
 </details>
 
 ### [9. Fast alphabet](./103-fast_alphabet.py)
-<details><summary>Write a program that prints the alphabet in uppercase, followed by a new line.</summary>
+<details><summary>Write a program that prints the alphabet in uppercase, followed by a new line.</summary><br>
 
 * Your program should be maximum 3 lines long
 * You are not allowed to use:
