@@ -31,63 +31,63 @@ What you should learn from this project:
 ---
 
 ### [0. List databases](./0-list_databases.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that lists all databases of your MySQL server.</summary><br>
 
-* Write a script that lists all databases of your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [1. Create a database](./1-create_database_if_missing.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that creates the database hbtn_0c_0 in your MySQL server.</summary><br>
 
-* Write a script that creates the database hbtn_0c_0 in your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [2. Delete a database](./2-remove_database.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that deletes the database hbtn_0c_0 in your MySQL server.</summary><br>
 
-* Write a script that deletes the database hbtn_0c_0 in your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [3. List tables](./3-list_tables.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that lists all the tables of a database in your MySQL server.</summary><br>
 
-* Write a script that lists all the tables of a database in your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [4. First table](./4-first_table.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that creates a table called first_table in the current database in your MySQL server.</summary><br>
 
-* Write a script that creates a table called first_table in the current database in your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [5. Full description](./5-full_table.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.</summary><br>
 
-* Write a script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.
+* 
 ```
 
 ```
 </details>
 
 ### [6. List all in table](./6-list_values.sql)
-<details><summary>Instructions</summary><br>
+<details><summary>Write a script that lists all rows of the table first_table from the database hbtn_0c_0 in your MySQL server.</summary><br>
 
-* Write a script that lists all rows of the table first_table from the database hbtn_0c_0 in your MySQL server.
+* 
 ```
 
 ```
