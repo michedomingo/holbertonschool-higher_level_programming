@@ -22,52 +22,105 @@
 ---
 
 ### [0. Safe list printing](./0-safe_print_list.py)
-* Write a function that prints x elements of a list.
+<details><summary>Write a function that prints x elements of a list.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [1. Safe printing of an integers list](./1-safe_print_integer.py)
-* Write a function that prints an integer with "{:d}".format().
+<details><summary>Write a function that prints an integer with "{:d}".format().</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [2. Print and count integers](./2-safe_print_list_integers.py)
-* Write a function that prints the first x elements of a list and only integers.
+<details><summary>Write a function that prints the first x elements of a list and only integers.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [3. Integers division with debug](./3-safe_print_division.py)
-* Write a function that divides 2 integers and prints the result.
+<details><summary>Write a function that divides 2 integers and prints the result.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [4. Divide a list](./4-list_division.py)
-* Write a function that divides element by element 2 lists.
+<details><summary>Write a function that divides element by element 2 lists.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [5. Raise exception](./5-raise_exception.py)
-* Write a function that raises a type exception.
+<details><summary>Write a function that raises a type exception.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [6. Raise a message](./6-raise_exception_msg.py)
-* Write a function that raises a name exception with a message.
+<details><summary>Write a function that raises a name exception with a message.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [7. Safe integer print with error message](./100-safe_print_integer_err.py)
-* Write a function that prints an integer.
+<details><summary>Write a function that prints an integer.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [8. Safe function](./101-safe_function.py)
-* Write a function that executes a function safely.  
+<details><summary>Write a function that executes a function safely. </summary><br>
 
+*  
+```
+
+```
+</details>
 
 ### [9. ByteCode -> Python #4](./102-magic_calculation.py)
-* Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+<details><summary>Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [10. CPython #2: PyFloatObject](./103-python.c)
-* Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.
+<details><summary>Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.</summary><br>
 
-
+* 
 
 Python lists:
+```
 
+```
+</details>
 ---
 
 ## Author
