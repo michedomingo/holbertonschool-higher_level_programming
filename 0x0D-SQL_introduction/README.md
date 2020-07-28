@@ -34,127 +34,190 @@ What you should learn from this project:
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists all databases of your MySQL server.
+```
 
+```
+</details>
 
 ### [1. Create a database](./1-create_database_if_missing.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that creates the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [2. Delete a database](./2-remove_database.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that deletes the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [3. List tables](./3-list_tables.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists all the tables of a database in your MySQL server.
+```
 
+```
+</details>
 
 ### [4. First table](./4-first_table.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that creates a table called first_table in the current database in your MySQL server.
+```
 
+```
+</details>
 
 ### [5. Full description](./5-full_table.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [6. List all in table](./6-list_values.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists all rows of the table first_table from the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [7. First add](./7-insert_value.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.
+```
 
+```
+</details>
 
 ### [8. Count 89](./8-count_89.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [9. Full creation](./9-full_creation.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.
+```
 
+```
+</details>
 
 ### [10. List by best](./10-top_score.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [11. Select the best](./11-best_score.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists all records with a score >= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [12. Cheating is bad](./12-no_cheating.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that updates the score of Bob to 10 in the table second_table.
+```
 
+```
+</details>
 
 ### [13. Score too low](./13-change_class.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that removes all records with a score <= 5 in the table second_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [14. Average](./14-average.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that computes the score average of all records in the table second_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [15. Number by score](./15-groups.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists the number of records with the same score in the table second_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [16. Say my name](./16-no_link.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.
+```
 
+```
+</details>
 
 ### [17. Go to UTF8](./100-move_to_utf8.sql)
 <details><summary>Instructions</summary><br>
 
 * Write a script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8mb4_unicode_ci) in your MySQL server.
+```
 
+```
+</details>
 
 ### [18. Temperatures #0](./101-avg_temperatures.sql)
 <details><summary>Instructions</summary><br>
 
 * Import in hbtn_0c_0 database this table dump: download
+```
 
+```
+</details>
 
 ### [19. Temperatures #1](./102-top_city.sql)
 <details><summary>Instructions</summary><br>
 
 * Import in hbtn_0c_0 database this table dump: download (same as Temperatures #0)
+```
 
+```
+</details>
 
 ### [20. Temperatures #2](./103-max_state.sql)
 <details><summary>Instructions</summary><br>
 
 * Import in hbtn_0c_0 database this table dump: download (same as Temperatures #0)
+```
 
+```
+</details>
 ---
 
 ## Author
