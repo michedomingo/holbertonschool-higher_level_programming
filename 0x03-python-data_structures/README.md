@@ -51,7 +51,7 @@
 ---
 
 ### [0. Print a list of integers](./0-print_list_integer.py)
-<details><summary>Write a function that prints all integers of a list.</summary>
+<details><summary>Write a function that prints all integers of a list.</summary><br>
 
 * Format: one integer per line. See example
 * You are not allowed to import any module
@@ -77,7 +77,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [1. Secure access to an element in a list](./1-element_at.py)
-<details><summary>Write a function that retrieves an element from a list like in C.</summary>
+<details><summary>Write a function that retrieves an element from a list like in C.</summary><br>
 
 * If idx is negative, the function should return None
 * If idx is out of range (> of number of element in my_list), the function should return None
@@ -99,7 +99,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [2. Replace element](./2-replace_in_list.py)
-<details><summary>Write a function that replaces an element of a list at a specific position (like in C).</summary>
+<details><summary>Write a function that replaces an element of a list at a specific position (like in C).</summary><br>
 
 * If idx is negative, the function should not modify anything, and returns the original list
 * If idx is out of range (> of number of element in my_list), the function should not modify anything, and returns the original list
@@ -126,7 +126,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [3. Print a list of integers... in reverse!](./3-print_reversed_list_integer.py)
-<details><summary>Write a function that prints all integers of a list, in reverse order.</summary>
+<details><summary>Write a function that prints all integers of a list, in reverse order.</summary><br>
 
 * Format: one integer per line. See example
 * You are not allowed to import any module
@@ -152,7 +152,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [4. Replace in a copy](./4-new_in_list.py)
-<details><summary>Write a function that replaces an element in a list at a specific position without modifying the original list (like in C).</summary>
+<details><summary>Write a function that replaces an element in a list at a specific position without modifying the original list (like in C).</summary><br>
 
 * If idx is negative, the function should return a copy of the original list
 * If idx is out of range (> of number of element in my_list), the function should return a copy of the original list
@@ -179,7 +179,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [5. Can you C me now?](./5-no_c.py)
-<details><summary>Write a function that removes all characters c and C from a string.</summary>
+<details><summary>Write a function that removes all characters c and C from a string.</summary><br>
 
 * The function should return the new string
 * You are not allowed to import any module
@@ -202,7 +202,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [6. Lists of lists = Matrix](./6-print_matrix_integer.py)
-<details><summary>Write a function that prints a matrix of integers.</summary>
+<details><summary>Write a function that prints a matrix of integers.</summary><br>
 
 * Format: see example
 * You are not allowed to import any module
@@ -235,7 +235,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [7. Tuples addition](./7-add_tuple.py)
-<details><summary>Write a function that adds 2 tuples.</summary>
+<details><summary>Write a function that adds 2 tuples.</summary><br>
 
 * Returns a tuple with 2 integers:
     * The first element should be the addition of the first element of each argument
@@ -266,7 +266,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [8. More returns!](./8-multiple_returns.py)
-<details><summary>Write a function that returns a tuple with the length of a string and its first character.</summary>
+<details><summary>Write a function that returns a tuple with the length of a string and its first character.</summary><br>
 
 * If the sentence is empty, the first character should be equal to None
 * You are not allowed to import any module
@@ -286,7 +286,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [9. Find the max](./9-max_integer.py)
-<details><summary>Write a function that finds the biggest integer of a list. </summary>
+<details><summary>Write a function that finds the biggest integer of a list. </summary><br>
 
 * If the list is empty, return None
 * You can assume that the list only contains integers
@@ -308,7 +308,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [10. Only by 2](./10-divisible_by_2.py)
-<details><summary>Write a function that finds all multiples of 2 in a list.</summary>
+<details><summary>Write a function that finds all multiples of 2 in a list.</summary><br>
 
 * Return a new list with True or False, depending on whether the integer at the same position in the original list is a multiple of 2
 * The new list should have the same size as the original list
@@ -339,7 +339,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [11. Delete at](./11-delete_at.py)
-<details><summary>Write a function that deletes the item at a specific position in a list.</summary>
+<details><summary>Write a function that deletes the item at a specific position in a list.</summary><br>
 
 * If idx is negative or out of range, nothing change (returns the same list)
 * You are not allowed to use pop()
@@ -363,7 +363,7 @@ guillaume@ubuntu:~/0x03$
 </details>
 
 ### [12. Switch](./12-switch.py)
-<details><summary>Complete the source code in order to switch value of a and b.</summary>
+<details><summary>Complete the source code in order to switch value of a and b.</summary><br>
 
 * You can find the source code here
 * Your code should be inserted where the comment is (line 4)
@@ -378,7 +378,7 @@ guillaume@ubuntu:~/py/0x03$
 </details>
 
 ### [13. Linked list palindrome](./13-is_palindrome.c)
-<details><summary>Instructions</summary>
+<details><summary>Instructions</summary><br>
 
 **Technical interview preparation:**
 - You are not allowed to google anything
@@ -553,7 +553,7 @@ carrie@ubuntu:0x03$
 </details>
 
 ### [14. CPython #0: Python lists](./100-print_python_list_info.c)
-<details><summary>Instructions</summary>
+<details><summary>Instructions</summary><br>
 
 * CPython is the reference implementation of the Python programming language. Written in C, CPython is the default and most widely used implementation of the language.
 Since we now know a bit of C, we can look at what is happening under the hood of Python. Let’s have fun with Python and C, and let’s look at what makes Python so easy to use.
