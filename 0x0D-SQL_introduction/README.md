@@ -1,7 +1,19 @@
 # 0x0D. SQL - Introduction
 
-## Resources:books:
-Read or watch:
+<details><summary>Project Requirements ☑️</summary>
+
+- Allowed editors: vi, vim, emacs
+- All your files will be executed on Ubuntu 14.04 LTS using MySQL 5.7 (version 5.7.8-rc)
+- All your files should end with a new line
+- All your SQL queries should have a comment just before (i.e. syntax above)
+- All your files should start by a comment describing the task
+- All SQL keywords should be in uppercase (SELECT, WHERE…)
+- A README.md file, at the root of the folder of the project, is mandatory
+- The length of your files will be tested using wc
+</details>
+
+<details><summary>Resources 💡</summary>
+
 * [What is Database & SQL?](https://intranet.hbtn.io/rltoken/khEqMKp1PHvKpfO18d4fLQ)
 * [A Basic MySQL Tutorial](https://intranet.hbtn.io/rltoken/qrONF5FZPsRxRJ2FkLVPcg)
 * [Basic SQL statements: DDL and DML](https://intranet.hbtn.io/rltoken/ibCYnC9CDgZg5NQQvccBWw)
@@ -11,10 +23,9 @@ Read or watch:
 * [What makes the big difference between a backtick and an apostrophe?](https://intranet.hbtn.io/rltoken/R--kAkehyaawZFY4m1inxQ)
 * [MySQL Cheat Sheet](https://intranet.hbtn.io/rltoken/aGZu7ulJpbbKcDhcz49yrg)
 * [MySQL 5.7 SQL Statement Syntax](https://intranet.hbtn.io/rltoken/XrqR4oh6zsk0eOKoTgkA3Q)
+</details>
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+#### Learning Objectives 🤓
 
 * What’s a database
 * What’s a relational database
@@ -29,6 +40,7 @@ What you should learn from this project:
 * How to use MySQL functions
 
 ---
+## Tasks
 
 ### [0. List databases](./0-list_databases.sql)
 <details><summary>Write a script that lists all databases of your MySQL server.</summary><br>
@@ -221,4 +233,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
