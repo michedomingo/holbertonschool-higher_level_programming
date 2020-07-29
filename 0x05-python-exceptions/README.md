@@ -1,11 +1,21 @@
 # 0x05. Python - Exceptions
 
 <details><summary>Project Requirements ☑️</summary>
-...
+
+- Allowed editors: vi, vim, emacs
+- All your files will be executed on Ubuntu 14.04 LTS using MySQL 5.7 (version 5.7.8-rc)
+- All your files should end with a new line
+- All your SQL queries should have a comment just before (i.e. syntax above)
+- All your files should start by a comment describing the task
+- All SQL keywords should be in uppercase (SELECT, WHERE…)
+- A README.md file, at the root of the folder of the project, is mandatory
+- The length of your files will be tested using wc
 </details>
 
 <details><summary>Resources 💡</summary>
-...
+
+* [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+* [Learn to Program 11 Static & Exception Handling (starting at minute 7)](https://www.youtube.com/watch?v=7vbgD-3s-w4)
 </details>
 
 #### Learning Objectives 🤓
@@ -20,6 +30,7 @@
 * When do we need to implement a clean-up action after an exception
 
 ---
+## Tasks
 
 ### [0. Safe list printing](./0-safe_print_list.py)
 <details><summary>Write a function that prints x elements of a list.</summary><br>
