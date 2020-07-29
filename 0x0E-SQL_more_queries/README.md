@@ -1,7 +1,19 @@
 # 0x0E. SQL - More queries 
 
-## Resources:books:
-Read or watch:
+<details><summary>Project Requirements ☑️</summary>
+
+- Allowed editors: vi, vim, emacs
+- All your files will be executed on Ubuntu 14.04 LTS using MySQL 5.7 (version 5.7.8-rc)
+- All your files should end with a new line
+- All your SQL queries should have a comment just before (i.e. syntax above)
+- All your files should start by a comment describing the task
+- All SQL keywords should be in uppercase (SELECT, WHERE…)
+- A README.md file, at the root of the folder of the project, is mandatory
+- The length of your files will be tested using wc
+</details>
+
+<details><summary>Resources 💡</summary>
+
 * [How To Create a New User and Grant Permissions in MySQL](https://intranet.hbtn.io/rltoken/u4h2MXcCQfadszlRMQy-gw)
 * [How To Use MySQL GRANT Statement To Grant Privileges To a User](https://intranet.hbtn.io/rltoken/9JjDTdvflUSxwxLNfW8sPg)
 * [MySQL constraints](https://intranet.hbtn.io/rltoken/u1P3WmgxehiqwcLBMlksUA)
@@ -16,9 +28,7 @@ Read or watch:
 * [SQL Style Guide](https://intranet.hbtn.io/rltoken/jn4SHgwVtOJF0LQYPEIs-g)
 * [MySQL 5.7 SQL Statement Syntax](https://intranet.hbtn.io/rltoken/YjNAE7DcadDbT_a7iI0sYw)
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+#### Learning Objectives 🤓
 
 * How to create a new MySQL user
 * How to manage privileges for a user to a database or table
@@ -30,6 +40,7 @@ What you should learn from this project:
 * What are JOIN and UNION
 
 ---
+## Tasks
 
 ### [0. My privileges!](./0-privileges.sql)
 <details><summary>Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).</summary><br>
@@ -223,4 +234,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
