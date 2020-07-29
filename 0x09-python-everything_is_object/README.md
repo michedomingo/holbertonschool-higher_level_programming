@@ -26,6 +26,7 @@
 * How does Python pass variables to functions
 
 ---
+## Tasks
 
 ### [0. Who am I?](./0-answer.txt)
 <details><summary>What function would you use to print the type of an object?</summary><br>
