@@ -38,6 +38,7 @@
 * How to use the getattr function
 
 ---
+## Tasks
 
 ### [0. Simple rectangle](./0-rectangle.py)
 <details><summary>Write an empty class Rectangle that defines a rectangle:</summary><br>
