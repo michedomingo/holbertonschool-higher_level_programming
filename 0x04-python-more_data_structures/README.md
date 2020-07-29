@@ -1,7 +1,15 @@
 # 0x04. Python - More Data Structures: Set, Dictionary
 
 <details><summary>Project Requirements ☑️</summary>
-...
+
+- Allowed editors: vi, vim, emacs
+- All your files will be executed on Ubuntu 14.04 LTS using MySQL 5.7 (version 5.7.8-rc)
+- All your files should end with a new line
+- All your SQL queries should have a comment just before (i.e. syntax above)
+- All your files should start by a comment describing the task
+- All SQL keywords should be in uppercase (SELECT, WHERE…)
+- A README.md file, at the root of the folder of the project, is mandatory
+- The length of your files will be tested using wc
 </details>
 
 <details><summary>Resources 💡</summary>
@@ -23,6 +31,7 @@
 * What is map, reduce and map functions
 
 ---
+## Tasks
 
 ### [0. Squared simple](./0-square_matrix_simple.py)
 <details><summary>Write a function that computes the square value of all integers of a matrix.</summary><br>
@@ -181,4 +190,4 @@ Python lists:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)[Michelle Domingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
