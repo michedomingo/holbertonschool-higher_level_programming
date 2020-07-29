@@ -32,6 +32,7 @@
 * How to use the getattr function
 
 ---
+## Tasks
 
 ### [0. My first square](./0-square.py)
 <details><summary>Write an empty class Square that defines a square:</summary><br>
