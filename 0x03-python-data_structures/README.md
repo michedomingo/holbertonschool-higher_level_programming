@@ -49,6 +49,7 @@
 * What is the del statement and how to use it
 
 ---
+## Tasks
 
 ### [0. Print a list of integers](./0-print_list_integer.py)
 <details><summary>Write a function that prints all integers of a list.</summary><br>
