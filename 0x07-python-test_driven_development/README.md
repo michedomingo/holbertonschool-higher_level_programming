@@ -19,6 +19,7 @@
 * How to find edge cases
 
 ---
+## Tasks
 
 ### [0. Integers addition](./0-add_integer.py)
 <details><summary>Write a function that adds 2 integers.</summary><br>
