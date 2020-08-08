@@ -14,7 +14,7 @@ if __name__ == '__main__':
     db_cursor = database.cursor()
     db_cursor.execute("SELECT cities.id, cities.name, states.name FROM cities" +
                       " JOIN states ON cities.state_id = states.id  " +
-                      "ORDER BY id ASC")
+                      "ORDER BY cities.id ASC")
     cities = db_cursor.fetchall()
     for city in cities:
         print(city)
